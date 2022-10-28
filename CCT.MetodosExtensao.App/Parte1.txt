@@ -1,0 +1,10 @@
+﻿CCT - Métodos de extensão
+==========================
+
+- Como esse conhecimento te ajuda?
+  - o que é um método de extensão (extension method)
+  - entender como testar esse tipo de método
+  - evitar erros que impedem o teste
+
+- Mostrar código
+

@@ -1,0 +1,27 @@
+﻿CCT - Métodos de extensão
+==========================
+
+- Como esse conhecimento te ajuda?
+  - o que é um método de extensão (extension method)
+  - entender como testar esse tipo de método
+  - evitar erros que impedem o teste
+
+- Mostrar código
+
+- Por que é um problema?
+  - como funciona um método de extensão?
+  - Linq e IConfiguration
+  - statics são acoplados por natureza
+  - não dá para mockar
+
+- Como resolver
+  - cada extensão deve ter seus próprios testes
+  - extensões de terceiros exigem teste de "integração"
+  - use para coisas simples, evite regras de negócio
+  - muito bom para remodelar classes "Util"
+  - cuidado com acoplamento
+
+- Conclusão
+  - entender é o poder
+  - não tem como testar o que você não entende
+  - use os recursos no contexto certo
